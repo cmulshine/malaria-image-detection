@@ -7,4 +7,4 @@ The workflow of this code analysis is:
 
 1. Download the 'cell_images.zip' Zip file from NIH: https://lhncbc.nlm.nih.gov/LHC-research/LHC-projects/image-processing/malaria-datasheet.html
 2. Load the files into the working file directory.
-3. Run the file 'malaria_detection.ipynb' in a Python IDE, which splits both 'Parasitized' (Infected) and 'Uninfected' samples into training, test, and validation classes, and trains the CNN model to detect infection.
+3. Run the file 'malaria_image_detection.ipynb' in a Python IDE, which splits both 'Parasitized' (Infected) and 'Uninfected' samples into training, test, and validation classes, and trains the CNN model to detect infection.
